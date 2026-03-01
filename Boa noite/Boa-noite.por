@@ -1,0 +1,7 @@
+// criar a variavel
+    cadeia nome_pessoa
+
+
+    escreva("qual é o seu nome: ")
+    leia( nome_pessoa)
+    escreva("Boa Noite " , nome_pessoa )
